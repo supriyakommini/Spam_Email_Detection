@@ -20,6 +20,6 @@ This code can be further extended by fine-tuning the models, trying different al
 - Download the dataset from the repository and place it in the appropriate directory[(spam.csv)](https://github.com/supriyakommini/Spam_Email_Detection/blob/main/spam.csv)
 - In the 14th line of this code, add the path of the dataset file(spam.csv).
 - Run the Python script.
-### Refer to the [Spam_detection.pdf](https://github.com/supriyakommini/Spam_Email_Detection/blob/main/Spam_Detection.pdf) and [Spam Detectio.pptx](https://github.com/supriyakommini/Spam_Email_Detection/blob/main/Spam%20Detection.pptx) files for theory related informatuon of the project.
+### Refer to the [Spam_detection.pdf](https://github.com/supriyakommini/Spam_Email_Detection/blob/main/Spam_Detection.pdf) and [Spam Detection PPT](https://github.com/supriyakommini/Spam_Email_Detection/blob/main/Spam%20Detection%20PPT.pdf) files for theory related informatuon of the project.
 # Contributors
 K Supriya
