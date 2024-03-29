@@ -1,4 +1,4 @@
-# Spam_Email_Detection
+#Spam_Email_Detection:
 ##Steps to run the code:
 ###1)SpamDetection.py
 - Make sure you have Python installed on your system. If not, download and install it from the official Python website: https://www.python.org/downloads/
