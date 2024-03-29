@@ -11,7 +11,7 @@ This repository contains code for spam classification using various machine lear
   matplotlib,
   seaborn)
   
-- Copy the code provided in /SpamDetection.py file into a Python file.
+- Copy the code provided in (docs/SpamDetection.py) file into a Python file.
 - Download the dataset from the repository and place it in the appropriate directory(spam.csv)
 - In the 14th line of this code, add the path of the dataset file(spam.csv).
 - Run the Python script.
